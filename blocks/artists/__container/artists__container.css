@@ -1,0 +1,15 @@
+.artists__container{
+  display: flex;
+  position: relative;
+}
+
+.artists__container::before {
+  content: '';
+  width: 20px;
+  position: absolute;
+  height: 20px;
+  left: 224px;
+  top: 74px;
+  border-top: 4px solid #D400B3;
+  border-right: 4px solid #D400B3;
+}

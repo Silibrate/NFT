@@ -1,0 +1,15 @@
+.product_right {
+  position: relative;
+  margin-top: -242px;
+}
+
+.product_right::before {
+  content: '';
+  width: 20px;
+  position: absolute;
+  height: 20px;
+  top: 1961px;
+  left: 300px;
+  border-top: 4px solid #D400B3;
+  border-right: 4px solid #D400B3;
+}

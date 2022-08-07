@@ -1,0 +1,27 @@
+.card__container {
+  color: white;
+  position: relative;
+  background: #262627;
+  border: 1px solid rgba(229, 229, 229, 0.5);
+  border-radius: 2px;
+  max-width: 392px;
+  max-height: 275px;
+  text-align: left;
+}
+
+.card__container::before{
+  position: absolute;
+  left: 287px;
+  top: 42px;
+  content: '';
+  height: 1px;
+  width: 124px;
+  border-bottom: 1px solid #858586;
+  transform: rotate(45deg);
+}
+
+@media screen and (max-width:1439px) {
+  .card__container{
+    margin-top: 50px;
+  }
+}

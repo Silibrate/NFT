@@ -1,0 +1,11 @@
+.artists__span-accent {
+  position: absolute;
+  top: 109px;
+  font-family: 'Paytone One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  color: #D400B3;
+}

@@ -1,0 +1,19 @@
+.header__background {
+  position: absolute;
+  top: 0;
+  left: 46.2%;
+  z-index: -3;
+}
+
+@media screen and (max-width:1439px) {
+  .header__background {
+    right: 0;
+    left: initial;
+  }
+}
+
+@media screen and (max-width:1180px) {
+  .header__background {
+    height: 650px;
+  }
+}

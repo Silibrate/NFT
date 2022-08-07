@@ -1,0 +1,36 @@
+.statistics {
+  width: 100%;
+  display: flex;
+  margin-top: 172px;
+  background: #262627;
+}
+
+@media screen and (max-width:1180px) {
+  .statistics {
+    margin-top: 292px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .statistics {
+    margin-top: 391px;
+  }
+}
+
+@media screen and (max-width: 799px) {
+  .statistics {
+    margin-top: 283px;
+  }
+}
+
+@media screen and (max-width: 709px) {
+  .statistics {
+    margin-top: 251px;
+  }
+}
+
+@media screen and (max-width: 709px) {
+  .statistics {
+    margin-top: 219px;
+  }
+}

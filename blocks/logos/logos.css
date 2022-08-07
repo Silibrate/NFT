@@ -1,0 +1,6 @@
+.logos{
+  display: flex;
+  width: calc(100% - 141px);
+  margin: auto;
+  justify-content: space-around;
+}

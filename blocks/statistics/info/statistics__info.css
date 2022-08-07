@@ -1,0 +1,10 @@
+.statistics__info {
+  display: flex;
+}
+
+
+@media screen and (max-width:905px) {
+  .statistics__info {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,12 @@
+.card__title {
+  margin: 0;
+  margin-bottom: 11px;
+  margin-left: 17px;
+  font-family: 'Paytone One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 32px;
+  text-align: left;
+  letter-spacing: 1px;
+}

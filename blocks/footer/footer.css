@@ -1,0 +1,7 @@
+.footer{
+  width: calc(100% - 120px);
+  margin: auto;
+  position: relative;
+  padding-top: 115px;
+  background: #0D0D0E;
+}

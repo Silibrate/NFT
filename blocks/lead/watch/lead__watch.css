@@ -1,0 +1,26 @@
+.lead__watch {
+  background: #262627;
+  position: absolute;
+  display: flex;
+  top: 503px;
+  left: -120px;
+  justify-content: center;
+  align-items: center;
+  width: 695px;
+  z-index: -2;
+  height: 120px;
+}
+
+@media screen and (max-width:799px) {
+  .lead__watch {
+    top: 393px;
+    width: calc(100%-20px);
+  }
+}
+
+@media screen and (max-width:634px) {
+  .lead__watch {
+    width: 100%;
+    left: 0;
+  }
+}

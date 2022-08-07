@@ -1,0 +1,11 @@
+.never__input {
+  height: 47px;
+  width: 456px;
+  background: rgba(196, 196, 196, 0.1);
+  border: 1px solid rgba(229, 229, 229, 0.3);
+  color: rgb(194, 12, 218);
+}
+
+.never__input:focus {
+  outline: 0;
+}

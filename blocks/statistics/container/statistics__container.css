@@ -1,0 +1,17 @@
+.statistics__container {
+  margin-right: 76px;
+  margin-bottom: 11px;
+  padding-top: 196px;
+}
+
+@media screen and (max-width:905px) {
+  .statistics__container:nth-of-type(1) {
+    padding-top: 100px;
+  }
+
+  .statistics__container {
+    margin-right: 76px;
+    margin-bottom: 11px;
+    padding-top: 66px;
+  }
+}

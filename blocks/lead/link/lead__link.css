@@ -1,0 +1,11 @@
+.lead__link {
+  margin-right: 13px;
+  text-decoration: none;
+  font-family: 'Paytone One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 44px;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+}

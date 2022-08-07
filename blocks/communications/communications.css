@@ -1,0 +1,6 @@
+.communications{
+  width: calc(100% - 120px);
+  margin: auto;
+  position: relative;
+  border-bottom:5px solid #D400B3;
+}

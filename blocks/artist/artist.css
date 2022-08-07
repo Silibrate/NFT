@@ -1,0 +1,6 @@
+.artist {
+  width: calc(100% - 120px);
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+}

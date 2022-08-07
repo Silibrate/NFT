@@ -1,0 +1,8 @@
+.logo__image_center {
+  position: absolute;
+  background: rgba(196, 196, 196, 0.2);
+  border: 1px solid rgba(229, 229, 229, 0.3);
+  border-radius: 1px;
+  left: 294px;
+  top: 82px;
+}

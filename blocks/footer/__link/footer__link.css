@@ -1,0 +1,14 @@
+.footer__link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+  margin-right: 36px;
+  align-self: center;
+}
+
+.footer__link:first-child{
+  margin-left: 122px;
+}

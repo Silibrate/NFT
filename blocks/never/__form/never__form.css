@@ -1,0 +1,7 @@
+.never__form {
+  display: flex;
+  width: calc(100% - 300px);
+  margin: auto;
+  justify-content: center;
+  padding-bottom: 95px;
+}

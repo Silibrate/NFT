@@ -1,0 +1,5 @@
+.tranding__shop{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}

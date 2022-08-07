@@ -1,0 +1,19 @@
+.create-nft__title {
+  margin: 0;
+  margin-bottom: 51px;
+  padding-top: 175px;
+  color: white;
+  font-family: 'Paytone One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 64px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width:1439px) {
+  .create-nft__title{
+    margin: 0px;
+  }
+}
